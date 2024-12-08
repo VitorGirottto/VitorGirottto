@@ -1,4 +1,4 @@
-# Olá, sou o Vitor! 👋
+# Olá, sou o Vitor!
 
 Sou suporte apaixonado por tecnologia e programação, sempre em busca de soluções inovadoras. Gosto de resolver problemas complexos e explorar ferramentas e frameworks modernos. Além disso, sou entusiasta de xadrez, uma paixão que me ajuda a desenvolver pensamento estratégico e habilidades criativas de resolução de problemas.
 
