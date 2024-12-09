@@ -1,4 +1,4 @@
-# Iae! prazer, me chamo Vitor!
+# Prazer, me chamo Vitor!
 
 Sou desenvolvedor, mas desenvolvedor de soluções, trabalhando atualmente no suporte, apaixonado por tecnologia e programação, sempre em busca de soluções inovadoras. Gosto de resolver problemas complexos e explorar ferramentas e frameworks modernos. Além disso, sou entusiasta de xadrez, uma paixão que veio na pandemia na qual me ajuda a desenvolver pensamento estratégico e habilidades criativas de resolução de problemas.
 
