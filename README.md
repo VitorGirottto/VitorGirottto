@@ -14,5 +14,4 @@ Se caso você gosta do mundo enxadrístico tanto quanto eu, para aquecer a sua m
 
 Se caso não achou, saiba que o lance seria De3 em a3.
 
-![Snake animation](https://github.com/VitorGirotto/VitorGirotto/blob/output/github-contribution-grid-snake.svg)
 
