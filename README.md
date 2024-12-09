@@ -6,4 +6,4 @@ Aqui você encontrará meus projetos de desenvolvimento, nos quais busco sempre 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor__jpg)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554988960558)
-![Minha Imagem](imagem1.jpg)
+![Minha Imagem](imagem1.png)
