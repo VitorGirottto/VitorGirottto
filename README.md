@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Prazer, me chamo Vitor!</strong>
+<h1 align="center">Prazer, me chamo Vitor!</h1>
 </p>
 
 <p align="center">
