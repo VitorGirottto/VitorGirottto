@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e73df&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e73df&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+meu+nome+é+Vitor;Sou+suporte+de+sitemas;Apaixonado+por+programação+e+tecnologias;Seja+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e73df&size=35&center=true&vCenter=true&width=1000&lines=Prazer,+meu+nome+é+Vitor!;Sou+suporte+de+sitemas;Apaixonado+por+programação+e+tecnologias;Seja+bem+vindo!)](https://git.io/typing-svg)
 
 <p align="center">
   Sou desenvolvedor, mas desenvolvedor de soluções, trabalhando atualmente no suporte, apaixonado por tecnologia e programação, sempre em busca de soluções inovadoras. Gosto de resolver problemas complexos e explorar ferramentas e frameworks modernos. Além disso, sou entusiasta de xadrez, uma paixão que veio na pandemia e me ajuda a desenvolver pensamento estratégico e habilidades criativas de resolução de problemas.
