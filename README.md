@@ -15,6 +15,15 @@
   <a href="https://wa.me/554988960558" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
+‎ 
+
+<p align="center">
+  Caso quiser entrar nesse mundo PHP, estou desenvolvendo um livro, onde deixo documentado coisas básicas no PHP mas que são importantes no nosso dia a dia, caso ficar interessado, fique a vontade para ler a documentação:
+</p>
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/1joF0ipbQEO1r6qlgsrcDJ5EjT1tMtQrBmMJahREpD9Y/edit?usp=sharing" target="_blank">Documentação do Livro</a>
+</p>
 ㅤ
 
 <div align="center">
@@ -39,8 +48,6 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
 </div>
-
-ㅤ
 
 
 <p align="center">
