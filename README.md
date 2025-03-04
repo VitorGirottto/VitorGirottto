@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://docs.google.com/document/d/1joF0ipbQEO1r6qlgsrcDJ5EjT1tMtQrBmMJahREpD9Y/edit?usp=sharing" target="_blank](https://vitorgirottto.github.io/VitorGirotto)">Documentação no Site</a>
+  <a href="https://vitorgirottto.github.io/VitorGirotto">Documentação no Site</a>
 </p>
 ㅤ
 
