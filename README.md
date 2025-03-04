@@ -18,11 +18,11 @@
 ‎ 
 
 <p align="center">
-  Caso quiser entrar nesse mundo PHP, estou desenvolvendo um livro, onde deixo documentado coisas básicas no PHP mas que são importantes no nosso dia a dia, caso ficar interessado, fique a vontade para ler a documentação:
+  Caso quiser entrar nesse mundo PHP, estou desenvolvendo um livro, onde deixo documentado coisas básicas do PHP em meu site, mas que são importantes no nosso dia a dia, caso ficar interessado, fique a vontade para ler a documentação na aba de assuntos do meu site:
 </p>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1joF0ipbQEO1r6qlgsrcDJ5EjT1tMtQrBmMJahREpD9Y/edit?usp=sharing" target="_blank">Documentação do Livro</a>
+  <a href="[https://docs.google.com/document/d/1joF0ipbQEO1r6qlgsrcDJ5EjT1tMtQrBmMJahREpD9Y/edit?usp=sharing" target="_blank](https://vitorgirottto.github.io/VitorGirotto)">Documentação no Site</a>
 </p>
 ㅤ
 
