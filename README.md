@@ -14,16 +14,6 @@
   <a href="https://instagram.com/vitor__jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://wa.me/554988960558" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
-
-‎ <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGirottto&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorGirottto&theme=onestar&no-frame=true&column=4"/>
-</div>
-
-
 <p align="center">
   Caso quiser entrar nesse mundo PHP, estou desenvolvendo um livro, onde deixo documentado coisas básicas do PHP em meu site, mas que são importantes no nosso dia a dia, caso ficar interessado, fique a vontade para ler a documentação na aba de assuntos do meu site:
 </p>
